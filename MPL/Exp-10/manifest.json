@@ -1,0 +1,19 @@
+{
+    "name": "Happy Helpers",
+    "short_name": "PWA",
+    "start_url": "index.html",
+    "display": "standalone",
+    "scope": ".",
+    "description": "This is a PWA tutorial.",
+    "icons": [{
+            "src": "images/image.png",
+            "sizes": "500x500",
+            "type": "image/png"
+        },
+        {
+            "src": "images/image.png",
+            "sizes": "500x500",
+            "type": "image/png"
+        }
+    ]
+}
