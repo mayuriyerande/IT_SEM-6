@@ -1,0 +1,5 @@
+This folder contains all the experiments for MPL lab.
+1-6 Experiments are based on Flutter. I have made OLA App Clone.
+7-11 Experiments are based on PWA on which I worked on a simple website I made named "Happy Helpers".
+Assignment-1 is based on Flutter Project.
+Assingment-2 is all about PWA theory.
